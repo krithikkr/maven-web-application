@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>webappsnapshot</name>
-	      <urlhttp://54.211.220.223:8081/repository/webappsnapshot/></url>
+	      <url>http://54.211.220.223:8081/repository/webappsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
