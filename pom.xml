@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>release</name>
-	      <url>http://13.233.246.110:8081/repository/release/</url>
+	      <url>http://15.206.90.205:8081/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>snap</name>
-	      <url>http://13.233.246.110:8081/repository/snap/</url>
+	      <url>http://15.206.90.205:8081/repository/snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
